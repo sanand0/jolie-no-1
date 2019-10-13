@@ -1,0 +1,3 @@
+*.gz
+*.xlsx
+.ipynb_checkpoints/
