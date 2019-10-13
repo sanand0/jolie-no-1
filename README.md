@@ -8,7 +8,9 @@ We ([Anand](https://www.linkedin.com/in/sanand0/), [Kishore](https://www.hackerr
 
 We solve the mystery who introduced them in the [Gramener data story hackathon](https://www.meetup.com/meetup-group-EkjzkhLt/events/mwdhfryznbpb/).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lcwMsPxPIjc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Here is the [video submission](https://youtu.be/lcwMsPxPIjc).
+
+[![Jolie No 1](https://img.youtube.com/vi/lcwMsPxPIjc/0.jpg)](http://www.youtube.com/watch?v=lcwMsPxPIjc "Jolie No 1")
 
 This repository has:
 
